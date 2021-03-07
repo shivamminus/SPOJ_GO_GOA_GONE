@@ -1,4 +1,4 @@
-# SPOJ_GO_GOA_GONE
+# SPOJ_GO_GOA_GONE PYTHON SOLUTION
 contains solution to ALCATRAZ2 GO-GOA-GONE SPOJ Solution in Python
 
 
